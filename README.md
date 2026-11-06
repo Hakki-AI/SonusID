@@ -5,7 +5,7 @@ Bu proje, mikrofon aracılığıyla ortam sesini yakalayıp AudD API’siyle şa
 ## 📦 Live Demo
 Uygulamayı doğrudan şu adresten deneyebilirsiniz:
 
-https://sonus-id-pnsl.vercel.app/   <!-- Vercel dağıtım URL’nizi buraya ekleyin -->
+https://sonus-id.vercel.app/   <!-- Vercel dağıtım URL’nizi buraya ekleyin -->
 
 > **Not:** Tarayıcınız mikrofon izni ister; izin verdiğinizde “Dinle” butonuyla şarkıyı tanıyabilirsiniz.  
 > AudD API anahtarını sağ üstteki **“API Anahtarı Gir”** butonundan eklemeyi unutmayın.
